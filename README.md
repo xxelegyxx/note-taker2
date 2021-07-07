@@ -1,6 +1,6 @@
 # note-taker
 
-![screenshot of home page](https://github.com/xxelegyxx/note-taker/blob/main/Assets/Screenshot%20(57).png)
+![screenshot of home page](https://github.com/xxelegyxx/note-taker2/blob/main/Assets/Screenshot%20(69).png)
  NOTE - RESUBMISSION WITH WORKING CODE - 
 
 ## :newspaper: Description 
