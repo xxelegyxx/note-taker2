@@ -1,7 +1,7 @@
 # note-taker
 
 ![screenshot of home page](https://github.com/xxelegyxx/note-taker2/blob/main/Assets/Screenshot%20(69).png)
- NOTE - RESUBMISSION WITH WORKING CODE - 
+ NOTE - RESUBMISSION WITH WORKING CODE - https://note-taker-elegy.herokuapp.com/
 
 ## :newspaper: Description 
 The following files contain the assets necessary to make a list of notes and save them on a server.
