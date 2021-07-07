@@ -1,11 +1,11 @@
 const notesArray = [
     {
         title:"Grocery List",
-        text:"Lemons, apples, pears"
+        text:"Apples, bananas, strawberries"
     },
     {
-        title:"Shopping List",
-        text:"plates, napkins, forks"
+        title:"BBQ stuff",
+        text:"napkins, paper towels, plates"
     }
 ]
 
